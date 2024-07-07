@@ -1,0 +1,18 @@
+#include <iostream>
+
+using namespace std;
+
+int main()
+{
+    int a;
+    int b; //Declaring two variables
+    
+    a=3;
+    b=5; //Assigning the values
+    
+    int c = a+b; //Declaring third variable as well as assigning the value
+    
+    cout<< c; //Printing the value
+    
+    return 0;
+}
